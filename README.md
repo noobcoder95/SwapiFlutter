@@ -1,7 +1,7 @@
 ## Swapi Flutter - Ferdiansyah (courseit3@gmail.com)
 
 This is an example flutter app to show data from API provided by swapi.dev. Since I don't have the design, so I decided to just made the UI/UX very simple.
-Instead just showing data from API, i also add search, filter, sort and caching feature in the app. 
+But instead just showing data from API, i also add search, filter, sort and caching feature in the app. 
 In this project, I am using BLOC pattern with flutter_bloc package to provide clean architecture and to separate UI and business logic.
 This project could be run in both mobile platform (iOS and Android) and web platform.
 I made this project to support concurrence/multithreading in both mobile and web, and i use easy_localization package to support localization.
