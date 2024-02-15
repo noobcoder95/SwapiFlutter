@@ -1,4 +1,5 @@
 ## Swapi Flutter - Ferdiansyah (courseit3@gmail.com)
+----------------------------------------------------
 
 This is an example flutter app to show data from API provided by swapi.dev. Since I don't have the design, so I decided to just made the UI/UX very simple.
 But instead just showing data from API, i also add search, filter, sort and caching feature in the app. 
